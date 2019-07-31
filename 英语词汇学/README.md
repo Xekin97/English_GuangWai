@@ -1,6 +1,6 @@
 # Introduction 介绍
 
-## 0.1 The Nature and Domain of English Lexicology 英语词汇学的性质和领域
+## 0.1 英语词汇学的性质和领域 The Nature and Domain of English Lexicology 
 
 >   Lexicology is a branch of linguistics, inquiring into the origins and meanings of words(WNWD). English lexicology aims at investigating and studying the morphological structures of English words and word equivalents, their semantic structures, relations, historical development, formation and usages.
 
@@ -10,7 +10,7 @@
 
 >   英语词汇学是一门理论导向的课程。它主要关注的是一般词汇的基本理论。同时也是实用的过程，因为在讨论中，我们不可避免地需要处理大量的词语和惯用语，并研究了大量的用例。自然而然的参与了大量的实践。
 
-## 0.2 Its Relation to Other Disciplines 与其他学科的关系
+## 0.2 与其他学科的关系 Its Relation to Other Disciplines 
 
 >   English lexicology itself is a subbranch of linguistics. But it embraces other academic disciplines, such as morphology, semantics, etymology, stylistics, lexicography. Each of them has been established as a discipline in its own right.
 
